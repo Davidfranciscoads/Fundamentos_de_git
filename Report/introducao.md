@@ -7,3 +7,4 @@ Com o **GitHub**, você pode hospedar seus repositórios na nuvem, compartilhar 
 ## 🗂️ Staging Area (área de preparação)  
 Funciona como um rascunho, onde você escolhe o que será incluído no próximo **commit** com `git add`.  
 Após isso, o `git commit` registra as mudanças de forma definitiva no repositório.
+
